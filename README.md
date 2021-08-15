@@ -1,3 +1,5 @@
+![enter image description here](https://raw.githubusercontent.com/d-napoli/blaze-auto-betting-ai/main/media/images/blaze-crash-screen.png)
+
 # Blaze AI Automation Project
 ### What is Blaze?
 Blaze is an online platform for betting. There are several betting modalities.<br>
